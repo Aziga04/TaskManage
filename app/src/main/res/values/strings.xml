@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">TaskManage</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="save" translatable="false" />
+    <string name="description" translatable="false" />
+    <string name="title" translatable="false" />
+    <string name="profile" translatable="false" />
+    <string name="title_task" translatable="false" />
+    <string name="title_profile" translatable="false" />
+    <string name="skip" translatable="false">Skip</string>
+    <string name="next" translatable="false">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Profile" translatable="false">Profile</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="Age" />
+    <string name="age">age</string>
+    <string name="update" />
+</resources>
