@@ -38,6 +38,11 @@
         android:name="com.example.taskmanage.ui.onBoarding.adapter.OnBoardingFragment"
         android:label="title_boarding2"
         tools:layout="@layout/fragment_on_boarding2" />
+    <fragment
+        android:id="@+id/authFragment"
+        android:name="com.example.taskmanage.ui.auth.AuthFragment"
+        android:label="fragment_auth"
+        tools:layout="@layout/fragment_auth" />
 
 
 </navigation>
